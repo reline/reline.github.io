@@ -26,7 +26,7 @@ fun Header() {
                     opacity(.6)
                 }
             }) {
-                Text("Android Engineer in Phoenix")
+                Text("Android Engineer in Washington, D.C.")
             }
         }
         ProfileImage()
