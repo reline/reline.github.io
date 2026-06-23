@@ -8,8 +8,8 @@ import org.jetbrains.compose.web.dom.Text
 fun Blurb() {
     P {
         Text(
-            """Hey, my name's Nathan! I'm an Android Developer in the Phoenix metro area. I love spending time 
-                |with my four cats, wrenching on cars, and finding myself in new places eating new food.""".trimMargin(),
+            """Hey, my name's Nathan! I'm an Android Developer in the DMV area. I love spending time 
+                |with my four cats, visiting national parks, and ordering a cortado at every coffee shop.""".trimMargin(),
         )
     }
 }
